@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: 
-excerpt: 
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ Email: lzhangbv [at] connect.ust.hk
 # Publications
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
 Computing and Communication Tasks”, ICDCS 2021. 
-* Barakeel Fanseu Kamhoua*, **Lin Zhang*** (equal contribution), Kaili Ma, James Cheng, Bo Li and
+* Barakeel Fanseu Kamhoua\*, **Lin Zhang\*** (equal contribution), Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, CIKM 2021. 
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, ICNP 2020. 
