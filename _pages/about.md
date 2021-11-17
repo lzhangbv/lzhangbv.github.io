@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am a Ph.D. student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/) in 2018. 
+I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/) in 2018. 
 
-My research interests lies in networking and distributed systems, particularly in distributed deep learning. My current research is about communication optimization techniques for accelerating distributed DNN training, including first-order and second-order algorithms. 
+My research interest lies in networking and distributed systems, particularly in distributed deep learning. My current work is about communication optimization techniques for accelerating distributed DNN training, including first-order and second-order algorithms. 
 
 # Contact
 Office: Room 4205, Academic Building, HKUST <br>
