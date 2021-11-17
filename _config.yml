@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lin Zhang"
+title                    : "Lin Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Lin Zhang"
 description              : &description "PhD student at HKUST"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lin Zhang"
+  name             : "Lin Zhang (章霖)"
   avatar           : "profile_hiking.png"
   bio              : "PhD student at HKUST"
   location         : "Hong Kong"
