@@ -38,3 +38,9 @@ Edge: A Privacy-Preserving Approach”, ICNP 2020.
 # Technical Skills
 * General: Python, C/C++, Linux Shell
 * Deep Learning Framework: Pytorch, Horovod
+
+# Some Useful Links
+* [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+* [How to look for a research idea](https://zhuanlan.zhihu.com/p/341685279)
+* [Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
+* [How (and How Not) to Write a Good Systems Paper](https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html)
