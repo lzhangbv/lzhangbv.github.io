@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/) in 2018. 
+I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in distributed deep learning systems, with a special focus on distributed DNN training and GPU cluster scheduling. 
+I am broadly interested in machine learning systems (MLSys), with a special focus on distributed DNN training and GPU cluster management. 
 
 # Contact
 Office: Room 4205, Academic Building, HKUST <br>
@@ -34,6 +34,7 @@ Edge: A Privacy-Preserving Approach”, ICNP 2020.
 # Awards and Honours
 * Zhejiang Provincial Government Scholarship, 2016
 * Excellent Graduate Student of Zhejiang University, 2018
+* Huawei PhD Fellowship, 2019
 
 # Technical Skills
 * General: Python, C/C++, Linux Shell
