@@ -23,6 +23,7 @@ Email: lzhangbv [at] connect.ust.hk
 Computing and Communication Tasks”, ICDCS 2021. 
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, ICNP 2020. 
+
 ### Applications
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, CIKM 2021. (\*Co-first authors in alphabetical order)
