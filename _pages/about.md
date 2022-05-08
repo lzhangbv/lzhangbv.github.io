@@ -11,19 +11,21 @@ redirect_from:
 # About Me
 I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems (MLSys), with a special focus on distributed DNN training and GPU cluster management. 
+I am broadly interested in machine learning systems and applications, with a special focus on distributed training for deep learning tasks. 
 
 # Contact
 Office: Room 4205, Academic Building, HKUST <br>
 Email: lzhangbv [at] connect.ust.hk
 
 # Publications
+### Systems
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
 Computing and Communication Tasks”, ICDCS 2021. 
-* Barakeel Fanseu Kamhoua\*, **Lin Zhang\*** (equal contribution), Kaili Ma, James Cheng, Bo Li and
-Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, CIKM 2021. 
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, ICNP 2020. 
+### Applications
+* Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
+Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, CIKM 2021. (\*Co-first authors in alphabetical order)
 
 <!-- # Academic Services -->
 
@@ -38,7 +40,7 @@ Edge: A Privacy-Preserving Approach”, ICNP 2020.
 
 # Technical Skills
 * General: Python, C/C++, Linux Shell
-* Deep Learning Framework: Pytorch, Horovod
+* Deep Learning Framework: PyTorch, Horovod
 
 # Some Useful Links
 * [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
