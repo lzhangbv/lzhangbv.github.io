@@ -20,13 +20,15 @@ Email: lzhangbv [at] connect.ust.hk
 # Publications
 ### Systems
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
-Computing and Communication Tasks”, ICDCS 2021. 
+Computing and Communication Tasks”, in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2021. 
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
-Edge: A Privacy-Preserving Approach”, ICNP 2020. 
+Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on Network Protocols (ICNP), 2020. 
 
 ### Applications
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
-Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, CIKM 2021. (\*Co-first authors in alphabetical order)
+Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, accepted and to appear in ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. (\*Co-first authors in alphabetical order)
+* Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
+Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. (\*Co-first authors in alphabetical order)
 
 <!-- # Academic Services -->
 
