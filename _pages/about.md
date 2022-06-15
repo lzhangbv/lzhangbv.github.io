@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and applications, with a special focus on distributed DNN training and graph convolution. 
+I am broadly interested in machine learning systems and applications, with a special focus on distributed DNN training, and unsupervised learning on graphs (e.g., clustering and matching). 
 
 # Contact
 Office: Room 4205, Academic Building, HKUST <br>
