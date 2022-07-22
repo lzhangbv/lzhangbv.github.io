@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and applications, with a special focus on second-order optimizations, and unsupervised learning on graphs (e.g., clustering and matching). 
+I am broadly interested in machine learning systems and applications, with a special focus on distributed deep learning, second-order optimizations, and unsupervised learning on graphs (e.g., clustering and matching). 
 
 # Contact
 Office: Room 4205, Academic Building, HKUST <br>
@@ -27,7 +27,13 @@ Computing and Communication Tasks”, in the IEEE International Conference on Di
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on Network Protocols (ICNP), 2020. 
 
+### Preprint
+* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, arXiv, 2022. 
+
 <!-- # Academic Services -->
+
+# Work Experience
+* 09/2021-present, HKRC Intern, Huawei
 
 # Teaching Assistant
 * Spring 2019, Introduction to Computing with Excel VBA
