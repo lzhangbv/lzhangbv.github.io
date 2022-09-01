@@ -33,7 +33,7 @@ Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on 
 <!-- # Academic Services -->
 
 # Work Experience
-* 09/2021-present, HKRC Intern, Huawei
+* 09/2021-08/2022, HKRC Intern, Huawei
 
 # Teaching Assistant
 * Spring 2019, Introduction to Computing with Excel VBA
