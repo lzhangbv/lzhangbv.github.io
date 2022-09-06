@@ -38,7 +38,7 @@ Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on 
 
 # Teaching Assistant
 * Spring 2019, Introduction to Computing with Excel VBA
-* Fall 2019, Operating Systems
+* Fall 2019, Fall 2022, Operating Systems
 
 # Awards and Honours
 * Zhejiang Provincial Government Scholarship, 2016
