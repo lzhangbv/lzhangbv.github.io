@@ -18,6 +18,7 @@ Office: Room 4205, Academic Building, HKUST <br>
 Email: lzhangbv [at] connect.ust.hk
 
 # Publications
+* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, accepted and to appear in IEEE Transactions on Cloud Computing (TCC), 2022. 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, accepted and to appear in ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. (\*Co-first authors in alphabetical order)
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
@@ -27,8 +28,8 @@ Computing and Communication Tasks”, in the IEEE International Conference on Di
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on Network Protocols (ICNP), 2020. 
 
-### Preprint
-* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, arXiv, 2022. 
+<!-- ### Preprint -->
+
 
 <!-- # Academic Services -->
 
