@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: ""
+permalink: https://lzhangbv.github.io/
+title: "Lin Zhang's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -20,9 +20,8 @@ Email: lzhangbv [at] connect.ust.hk
 # Publications
 (* indicates equal contributions)
 
-* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, accepted and to appear in IEEE Transactions on Cloud Computing (TCC), 2022. \[[PDF](https://arxiv.org/pdf/2206.15143.pdf), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
-* Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
-Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, accepted and to appear in ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
+### Conference Publications
+* Barakeel Fanseu Kamhoua, **Lin Zhang**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, James Cheng, “Exact Shape Correspondence via 2D graph convolution”, accepted and to appear in the Conference on Neural Information Processing Systems (NeurIPS), 2022. 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482437), [Code](https://github.com/BarakeelFanseu/GRAC_CIKM)\]
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
@@ -30,13 +29,18 @@ Computing and Communication Tasks”, in the IEEE International Conference on Di
 * Yuqing Li, Hok Chun Ng, **Lin Zhang**, and Bo Li, “Online Cooperative Resource Allocation at the
 Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on Network Protocols (ICNP), 2020. \[[PDF](https://liyuqingwhu.github.io/lyq/papers/ICNP2020.pdf)\]
 
+### Journal Publications
+* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, accepted and to appear in IEEE Transactions on Cloud Computing (TCC), 2022. \[[PDF](https://arxiv.org/pdf/2206.15143.pdf), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
+* Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
+Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, in the ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
+
 <!-- ### Preprint -->
 
 
 <!-- # Academic Services -->
 
 # Work Experience
-* 09/2021-08/2022, HKRC Intern, Huawei
+* Sep 2021-Aug 2022, Intern, Hong Kong Research Center, Huawei
 
 # Teaching Assistant
 * Spring 2019, Introduction to Computing with Excel VBA
