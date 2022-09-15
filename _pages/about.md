@@ -1,6 +1,6 @@
 ---
-permalink: https://lzhangbv.github.io/
-title: "Lin Zhang's Homepage"
+permalink: /
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
