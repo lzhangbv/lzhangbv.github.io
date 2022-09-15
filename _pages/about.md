@@ -40,7 +40,7 @@ Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clu
 <!-- # Academic Services -->
 
 # Work Experience
-* Sep 2021-Aug 2022, Intern, Hong Kong Research Center, Huawei
+* 09/2021-08/2022, Huawei Hong Kong Research Center Intern
 
 # Teaching Assistant
 * Spring 2019, Introduction to Computing with Excel VBA
