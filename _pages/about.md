@@ -21,7 +21,7 @@ Email: lzhangbv [at] connect.ust.hk
 (* indicates equal contributions, + indicates the corresponding author)
 
 ### Conference Publications
-* Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, James Cheng, “Exact Shape Correspondence via 2D graph convolution”, accepted and to appear in the Conference on Neural Information Processing Systems (NeurIPS), 2022. 
+* Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, James Cheng, “Exact Shape Correspondence via 2D graph convolution”, accepted and to appear in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\]
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482437), [Code](https://github.com/BarakeelFanseu/GRAC_CIKM)\]
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
