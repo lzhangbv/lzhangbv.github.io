@@ -11,16 +11,23 @@ redirect_from:
 # About Me
 I am a PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and applications, with a special focus on distributed deep learning, second-order optimization, and unsupervised learning on graphs (e.g., clustering and matching). 
+I am broadly interested in machine learning systems and applications, with a special focus on: 1) distributed training, 2) second-order optimization, and 3) learning on graphs. 
 
-# Contact
+<!-- # Contact
 Office: Room 4205, Academic Building, HKUST <br>
-Email: lzhangbv [at] connect.ust.hk
+Email: lzhangbv [at] connect.ust.hk -->
+
+# News
+* 12/2022: One paper is accepted to INFOCOM 2023. 
+* 09/2022: One paper is accepted to NeurIPS 2022. 
+* 09/2022: One paper is accepted to TCC 2022. 
+* 06/2022: One paper is accepted to TKDD 2022. 
 
 # Publications
 (* indicates equal contributions, + indicates the corresponding author)
 
 ### Conference Publications
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling”, accepted and to appear in the IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, James Cheng, “Exact Shape Correspondence via 2D graph convolution”, accepted and to appear in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\]
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482437), [Code](https://github.com/BarakeelFanseu/GRAC_CIKM)\]
@@ -34,8 +41,8 @@ Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, in the ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
 
-<!-- ### Preprint -->
-
+### Preprints
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[PDF](https://github.com/lzhangbv/last-batch-opt/blob/main/LB-OPT.pdf), [Code](https://github.com/lzhangbv/last-batch-opt)\]
 
 <!-- # Academic Services -->
 
