@@ -18,6 +18,7 @@ Office: Room 4205, Academic Building, HKUST <br>
 Email: lzhangbv [at] connect.ust.hk -->
 
 # News
+* 01/2023: One paper is accepted to ICLR 2023. 
 * 12/2022: One paper is accepted to INFOCOM 2023. 
 * 09/2022: One paper is accepted to NeurIPS 2022. 
 * 09/2022: One paper is accepted to TCC 2022. 
@@ -27,8 +28,9 @@ Email: lzhangbv [at] connect.ust.hk -->
 (* indicates equal contributions, + indicates the corresponding author)
 
 ### Conference Publications
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation”, accepted and to appear in the International Conference on Learning Representations (ICLR), 2023. 
 * **Lin Zhang**, Shaohuai Shi, and Bo Li, “Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling”, accepted and to appear in the IEEE International Conference on Computer Communications (INFOCOM), 2023. 
-* Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, and James Cheng, “Exact Shape Correspondence via 2D graph convolution”, accepted and to appear in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\]
+* Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, and James Cheng, “Exact Shape Correspondence via 2D graph convolution”, in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\]
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482437), [Code](https://github.com/BarakeelFanseu/GRAC_CIKM)\]
 * Shaohuai Shi, **Lin Zhang**, and Bo Li, “Accelerating Distributed K-FAC with Smart Parallelism of
@@ -37,7 +39,7 @@ Computing and Communication Tasks”, in the IEEE International Conference on Di
 Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on Network Protocols (ICNP), 2020. \[[PDF](https://liyuqingwhu.github.io/lyq/papers/ICNP2020.pdf)\]
 
 ### Journal Publications
-* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, accepted and to appear in IEEE Transactions on Cloud Computing (TCC), 2022. \[[PDF](https://arxiv.org/pdf/2206.15143.pdf), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
+* **Lin Zhang**, Shaohuai Shi, Wei Wang, and Bo Li, “Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning”, in the IEEE Transactions on Cloud Computing (TCC), 2022. \[[PDF](https://arxiv.org/pdf/2206.15143.pdf), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, in the ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
 
