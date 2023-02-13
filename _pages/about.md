@@ -43,8 +43,8 @@ Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, in the ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
 
-### Preprints
-* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[PDF](https://github.com/lzhangbv/last-batch-opt/blob/main/LB-OPT.pdf), [Code](https://github.com/lzhangbv/last-batch-opt)\]
+<!-- ### Preprints
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[PDF](https://github.com/lzhangbv/last-batch-opt/blob/main/LB-OPT.pdf), [Code](https://github.com/lzhangbv/last-batch-opt)\] -->
 
 <!-- # Academic Services -->
 
@@ -62,7 +62,7 @@ Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clu
 
 # Technical Skills
 * General: Python, C/C++, Linux Shell
-* Deep Learning Framework: PyTorch, Horovod
+* Deep Learning Framework: PyTorch, Horovod, Megatron-LM
 
 # Some Useful Links
 * [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
