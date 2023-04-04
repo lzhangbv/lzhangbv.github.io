@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a final year PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs.  I am currently interested in efficient Transformer training.  
+I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently interested in efficient Transformer training.  
 
 <!-- # Contact
 Office: Room 4205, Academic Building, HKUST <br>
@@ -45,7 +45,7 @@ Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clu
 
 ### Preprints
 * **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “Decoupling the All-Reduce Primitive for Accelerating Distributed Deep Learning”, 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
-* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[PDF](https://github.com/lzhangbv/last-batch-opt/blob/main/LB-OPT.pdf), [Code](https://github.com/lzhangbv/last-batch-opt)\] 
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[Code](https://github.com/lzhangbv/last-batch-opt)\] 
 
 <!-- # Academic Services -->
 
@@ -63,7 +63,7 @@ Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clu
 
 # Technical Skills
 * General: Python, C/C++, Linux Shell
-* Deep Learning Framework: PyTorch, Horovod, Megatron-LM
+* Deep Learning Framework: PyTorch, Horovod, Megatron-LM, DeepSpeed
 
 # Some Useful Links
 * [How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
