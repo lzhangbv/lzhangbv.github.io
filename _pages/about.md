@@ -11,13 +11,14 @@ redirect_from:
 # About Me
 I am a final year PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently interested in efficient Transformer training.  
+I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently interested in efficient Transformers training.  
 
 <!-- # Contact
 Office: Room 4205, Academic Building, HKUST <br>
 Email: lzhangbv [at] connect.ust.hk -->
 
 # News
+* 04/2023: Two papers are accepted to ICDCS 2023. 
 * 01/2023: One paper is accepted to ICLR 2023. 
 * 12/2022: One paper is accepted to INFOCOM 2023. 
 * 09/2022: One paper is accepted to NeurIPS 2022. 
@@ -28,6 +29,8 @@ Email: lzhangbv [at] connect.ust.hk -->
 (* indicates equal contributions, + indicates the corresponding author)
 
 ### Conference Publications
+* **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining”, accepted and to appear in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
+* **Lin Zhang**, Longteng Zhang, Shaohuai Shi, Xiaowen Chu, and Bo Li, “Evaluation and Optimization of Gradient Compression for Distributed Deep Learning”, accepted and to appear in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[Code](https://github.com/lzhangbv/powersgd)\]
 * **Lin Zhang**, Shaohuai Shi, and Bo Li, “Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation”, accepted and to appear in the International Conference on Learning Representations (ICLR), 2023. \[[PDF](https://openreview.net/pdf?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
 * **Lin Zhang**, Shaohuai Shi, and Bo Li, “Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling”, accepted and to appear in the IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, and James Cheng, “Exact Shape Correspondence via 2D graph convolution”, in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\] \[<font color="red">Spotlight</font>\] 
@@ -43,9 +46,8 @@ Edge: A Privacy-Preserving Approach”, in the IEEE International Conference on 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “GRACE: A General Graph Convolution Framework for Attributed Graph Clustering”, in the ACM Transactions on Knowledge Discovery in Data (TKDD), 2022. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3544977), [Code](https://github.com/BarakeelFanseu/GRACE)\]
 
-### Preprints
-* **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “Decoupling the All-Reduce Primitive for Accelerating Distributed Deep Learning”, 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
-* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[Code](https://github.com/lzhangbv/last-batch-opt)\] 
+<!-- ### Preprints
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Last Batch Optimization for Distributed DNN Training”, 2022. \[[Code](https://github.com/lzhangbv/last-batch-opt)\]  -->
 
 <!-- # Academic Services -->
 
