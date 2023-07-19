@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a final year PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
 
-I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently working on efficient Transformers training (e.g., LLMs). 
+I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently working on LLMs training and inference. 
 
 <!-- # Contact
 Office: Room 4205, Academic Building, HKUST <br>
@@ -29,10 +29,10 @@ Email: lzhangbv [at] connect.ust.hk -->
 (* indicates equal contributions, + indicates the corresponding author)
 
 ### Conference Publications
-* **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “DeAR: Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining”, accepted and to appear in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
-* **Lin Zhang**, Longteng Zhang, Shaohuai Shi, Xiaowen Chu, and Bo Li, “Evaluation and Optimization of Gradient Compression for Distributed Deep Learning”, accepted and to appear in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2306.08881.pdf), [Code](https://github.com/lzhangbv/acpsgd)\]
-* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation”, accepted and to appear in the International Conference on Learning Representations (ICLR), 2023. \[[PDF](https://openreview.net/pdf?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
-* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling”, accepted and to appear in the IEEE International Conference on Computer Communications (INFOCOM), 2023. 
+* **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “DeAR: Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining”, in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
+* **Lin Zhang**, Longteng Zhang, Shaohuai Shi, Xiaowen Chu, and Bo Li, “Evaluation and Optimization of Gradient Compression for Distributed Deep Learning”, in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2306.08881.pdf), [Code](https://github.com/lzhangbv/acpsgd)\]
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation”, in the International Conference on Learning Representations (ICLR), 2023. \[[PDF](https://openreview.net/pdf?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling”, in the IEEE International Conference on Computer Communications (INFOCOM), 2023. 
 * Barakeel Fanseu Kamhoua, **Lin Zhang+**, Yongqiang Chen, Han Yang, Kaili Ma, Bo Han, Bo Li, and James Cheng, “Exact Shape Correspondence via 2D graph convolution”, in the Conference on Neural Information Processing Systems (NeurIPS), 2022. \[[PDF](https://openreview.net/pdf?id=f39vsgpEaY5), [Code](https://github.com/BarakeelFanseu/2D-GEM)\] \[<font color="red">Spotlight</font>\] 
 * Barakeel Fanseu Kamhoua\*, **Lin Zhang\***, Kaili Ma, James Cheng, Bo Li and
 Bo Han, “HyperGraph Convolution Based Attributed HyperGraph Clustering”, in the ACM Conference on Information and Knowledge Management (CIKM), 2021. \[[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482437), [Code](https://github.com/BarakeelFanseu/GRAC_CIKM)\]
