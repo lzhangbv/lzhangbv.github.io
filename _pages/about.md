@@ -28,6 +28,9 @@ Email: lzhangbv [at] connect.ust.hk -->
 # Publications
 (* indicates equal contributions, + indicates the corresponding author)
 
+### Preprints
+* **Lin Zhang**, Shaohuai Shi, and Bo Li, “Eva: A General Vectorized Approximation Framework for Second-order Optimization”, arXiv preprint, 2023. \[[PDF](https://arxiv.org/pdf/2308.02123.pdf)\]
+
 ### Conference Publications
 * **Lin Zhang**, Shaohuai Shi, Xiaowen Chu, Wei Wang, Bo Li, and Chengjian Liu, “DeAR: Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining”, in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2302.12445.pdf), [Code](https://github.com/lzhangbv/dear_pytorch)\]
 * **Lin Zhang**, Longteng Zhang, Shaohuai Shi, Xiaowen Chu, and Bo Li, “Evaluation and Optimization of Gradient Compression for Distributed Deep Learning”, in the IEEE International Conference on Distributed Computing Systems (ICDCS), 2023. \[[PDF](https://arxiv.org/pdf/2306.08881.pdf), [Code](https://github.com/lzhangbv/acpsgd)\]
