@@ -18,6 +18,7 @@ Office: Room 4205, Academic Building, HKUST <br>
 Email: lzhangbv [at] connect.ust.hk -->
 
 # News
+* 08/2023: I passed my PhD defense. 
 * 04/2023: Two papers are accepted to ICDCS 2023. 
 * 01/2023: One paper is accepted to ICLR 2023. 
 * 12/2022: One paper is accepted to INFOCOM 2023. 
