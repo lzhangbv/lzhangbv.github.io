@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a final year PhD student in the [Computer Science & Engineering Department](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/?cn=1), advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from [Zhejiang University](https://www.zju.edu.cn/). 
+I obtained my PhD degree in Computer Science and Engineering from The Hong Kong University of Science and Technology, advised by Prof. [Bo Li](https://www.cse.ust.hk/~bli/). Prior to that, I received my Bachelor’s Degree from Zhejiang University. 
 
 I am broadly interested in machine learning systems and algorithms, with a special focus on: 1) distributed DNN training, 2) second-order optimization, and 3) learning on graphs. I am currently working on LLMs training and inference. 
 
